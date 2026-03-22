@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Anthony Martins de Castro — 782410002
 - Christiano dias Ferraz - 782410003
-- Lucas Devantier — 782410004
+- Lucas Devantier Pinto — 782410004
 - Felipe Ponciano de Almeida — 782410110
 
 ## 🎯 Objetivo do Repositório
